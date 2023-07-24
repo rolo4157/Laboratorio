@@ -1,2 +1,2 @@
 # Laboratorio
-Proyecto 
+Proyecto Jupyter Notebook
